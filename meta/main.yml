@@ -26,6 +26,9 @@ galaxy_info:
     - name: Solaris
       versions:
         - 11.3
+    - name: Rocky
+      versions:
+        - 9
   galaxy_tags:
     - web
     - apache
